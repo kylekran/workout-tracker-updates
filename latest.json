@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.4/Workout_Tracker_v6.apk",
+  "sha256": "23B13002719CADCA39CD17FB2445562A91C36A8B9A1CD0CC98824C05A76EFEDB",
+  "notes": "Adds secure in-app update checking and installation, including HTTPS, checksum, package, version, and signing-certificate verification."
+}
