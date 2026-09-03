@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.5/Workout_Tracker_v7.apk",
-  "sha256": "1E95AF061931B6199EA52CC929238B1FDF3DC31E081F730B735AB45F1AC0D0BE",
-  "notes": "Adds post-workout summaries, live last-session comparisons, input warnings, two-session baselines, corrected early consistency stats, and clearer workout headings in History."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.6/Workout_Tracker_v8.apk",
+  "sha256": "8A9A3229B37036FCB90F3436B2A2EC998492D3A09DFCCC7CB94C7D3110164430",
+  "notes": "Adds setup-week handling so starting late in a week records every workout and performance result without skewing consistency averages or goal percentages."
 }
