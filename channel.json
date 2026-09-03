@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.4/Workout_Tracker_v6.apk",
-  "sha256": "163A5C446F3777B830EA75FFF36349BCF13619EE95642E9557F0522AC148F7D1",
-  "notes": "Adds secure in-app update checking and installation, including HTTPS, checksum, package, version, and signing-certificate verification."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.5/Workout_Tracker_v7.apk",
+  "sha256": "1E95AF061931B6199EA52CC929238B1FDF3DC31E081F730B735AB45F1AC0D0BE",
+  "notes": "Adds post-workout summaries, live last-session comparisons, input warnings, two-session baselines, corrected early consistency stats, and clearer workout headings in History."
 }
