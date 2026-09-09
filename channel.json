@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.6/Workout_Tracker_v8.apk",
-  "sha256": "8A9A3229B37036FCB90F3436B2A2EC998492D3A09DFCCC7CB94C7D3110164430",
-  "notes": "Adds setup-week handling so starting late in a week records every workout and performance result without skewing consistency averages or goal percentages."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.7/Workout_Tracker_v9.apk",
+  "sha256": "35DE52F4929C8410603FE0FD0203193134D8F5907F0AFD5AEA5E59823D36C1E4",
+  "notes": "Fixes clipped amount/reps fields and sets each workout baseline from its first complete session. Preserves all logged workouts, notes, programs and drafts; existing indices recalculate automatically."
 }
