@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.8/Workout_Tracker_v10.apk",
-  "sha256": "50CDAC1E0A8BFCEA44276B07A4375B962FADA5DAD3D5A999BEE8A8FFF3DEA85B",
-  "notes": "Adds a Programs tab and workout-page program switcher, shared exercise progression, configurable workouts and sets, and redesigned global weekly stats. Partial workouts count by completed-set percentage. Exercise stats require three sets; performance and volume use the first three. Preserves logged workouts, notes and drafts."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.9/Workout_Tracker_v11.apk",
+  "sha256": "A75AF7F9563465FC5D3FA818E6E3EF1708C5D4CE59CC3B145FF2941D5091BF64",
+  "notes": "Workout performance now uses all planned sets; workout volume includes all completed sets and partial sessions. Set-count changes start a new baseline while preserving previous graphs. Adds Stats arrows, all-time exercise record cards, separate metric/range controls, a session slider and remembered chart visibility. Preserves logged workouts, notes and drafts."
 }
