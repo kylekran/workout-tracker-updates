@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.10/Workout_Tracker_v12.apk",
-  "sha256": "FB60EB27FB1B1A1FD7C274CC29E058571890B3F5D415B9ADC0D32E937BA3CD31",
-  "notes": "Simplifies Stats with pinned exercise/workout selectors, record cards that select charts, and one session slider. Removes Show charts, Recent/All controls, extra headings and scoring explanations. Deleted library exercises disappear from exercise Stats while logged sets and historical workout scores remain intact."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.11/Workout_Tracker_v13.apk",
+  "sha256": "F79DA636C3CBBF521BCC90D58ADAA6BFABB8EF6E4D66D6C4E197D726100541F1",
+  "notes": "Add supplementary exercises while logging. Their sets count toward exercise stats and weekly credit, capped at 1, without changing the planned workout or its baseline. Both workout graphs now exclude partial routines; partial sessions remain in History and eligible exercise stats. Existing workouts, programs, notes, and drafts are preserved."
 }
