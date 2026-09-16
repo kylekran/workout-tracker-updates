@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.11/Workout_Tracker_v13.apk",
-  "sha256": "F79DA636C3CBBF521BCC90D58ADAA6BFABB8EF6E4D66D6C4E197D726100541F1",
-  "notes": "Add supplementary exercises while logging. Their sets count toward exercise stats and weekly credit, capped at 1, without changing the planned workout or its baseline. Both workout graphs now exclude partial routines; partial sessions remain in History and eligible exercise stats. Existing workouts, programs, notes, and drafts are preserved."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.12/Workout_Tracker_v14.apk",
+  "sha256": "AFC57BBD2DA6F67727771969714068D1720A7A35309AFE5010FF8E6192CBFD7F",
+  "notes": "Animated workout summary with workout performance and volume results, every exercise result, grouped PR badges, and weekly progress. Any improvement now earns a PR; ties and first results are separate. Partial and supplementary workout rules stay intact. Existing history, programs, notes and drafts are preserved."
 }
