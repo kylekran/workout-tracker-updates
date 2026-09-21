@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.12/Workout_Tracker_v14.apk",
-  "sha256": "AFC57BBD2DA6F67727771969714068D1720A7A35309AFE5010FF8E6192CBFD7F",
-  "notes": "Animated workout summary with workout performance and volume results, every exercise result, grouped PR badges, and weekly progress. Any improvement now earns a PR; ties and first results are separate. Partial and supplementary workout rules stay intact. Existing history, programs, notes and drafts are preserved."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.13/Workout_Tracker_v15.apk",
+  "sha256": "7E510C022A77670E0BF48464049B3AAFC3759045661E36674B3AB67A982E8884",
+  "notes": "Add or remove sets for today with +/− controls while keeping the planned workout and baseline unchanged. Quick workout lets you build a session as you go, with its own saved draft and shared exercise stats. Done on results now opens Stats Overview. Existing workouts, programs, notes and drafts are preserved."
 }
