@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.13/Workout_Tracker_v15.apk",
-  "sha256": "7E510C022A77670E0BF48464049B3AAFC3759045661E36674B3AB67A982E8884",
-  "notes": "Add or remove sets for today with +/− controls while keeping the planned workout and baseline unchanged. Quick workout lets you build a session as you go, with its own saved draft and shared exercise stats. Done on results now opens Stats Overview. Existing workouts, programs, notes and drafts are preserved."
+  "versionName": "1.14",
+  "sha256": "CF65AE2FC1108562CADB1BB298E83DB762F3DC736E2CB5056083D613B029BBC9",
+  "notes": "Workout progress now includes supplementary and extra completed sets toward the original planned total. For example, 10 planned plus 3 supplementary sets shows 13/20. Weekly credit remains capped at one. Existing logs and drafts are preserved.",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.14/Workout_Tracker_v16.apk"
 }
