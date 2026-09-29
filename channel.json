@@ -1,7 +1,7 @@
 {
-  "versionName": "1.14",
-  "sha256": "CF65AE2FC1108562CADB1BB298E83DB762F3DC736E2CB5056083D613B029BBC9",
-  "notes": "Workout progress now includes supplementary and extra completed sets toward the original planned total. For example, 10 planned plus 3 supplementary sets shows 13/20. Weekly credit remains capped at one. Existing logs and drafts are preserved.",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.14/Workout_Tracker_v16.apk"
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.15/Workout_Tracker_v17.apk",
+  "sha256": "2D51340F54A3E6EA49863A7C2294BDDD0F982A9AF97E8DE2B4EA992DBA982A8A",
+  "notes": "Every 15 completed sets earns one weekly workout credit, capped at one per session. Planned, quick, extra and supplementary sets use the same rule. Past weekly totals and averages recalculate consistently; all logged sets and drafts are preserved."
 }
