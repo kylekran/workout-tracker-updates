@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.15/Workout_Tracker_v17.apk",
-  "sha256": "2D51340F54A3E6EA49863A7C2294BDDD0F982A9AF97E8DE2B4EA992DBA982A8A",
-  "notes": "Every 15 completed sets earns one weekly workout credit, capped at one per session. Planned, quick, extra and supplementary sets use the same rule. Past weekly totals and averages recalculate consistently; all logged sets and drafts are preserved."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.16/Workout_Tracker_v18.apk",
+  "sha256": "BE9984F1F89CE8B85839662F9A905B76FE114C27BDBEF70C2A13FBA3597A5FF8",
+  "notes": "Stats chart percentages now compare the first and last displayed sessions and follow the session slider. Weekly activity turns green at 1.5 credits and blue at 2.5 credits, consistently across the overview and results. Existing logs, drafts, workout baselines and the two-credit weekly goal are preserved."
 }
