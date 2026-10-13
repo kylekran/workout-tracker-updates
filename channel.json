@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.16/Workout_Tracker_v18.apk",
-  "sha256": "BE9984F1F89CE8B85839662F9A905B76FE114C27BDBEF70C2A13FBA3597A5FF8",
-  "notes": "Stats chart percentages now compare the first and last displayed sessions and follow the session slider. Weekly activity turns green at 1.5 credits and blue at 2.5 credits, consistently across the overview and results. Existing logs, drafts, workout baselines and the two-credit weekly goal are preserved."
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.17/Workout_Tracker_v19.apk",
+  "sha256": "9454C0CCBE9950FE7554933AFF7ED2CEB8AADA8079580418173BF933CBFFC97A",
+  "notes": "The week-by-week chart now fits eight weeks in Recent 8 and sixteen in All weeks before scrolling. Tap any bar to see its week, date range and exact workout credits. Longer histories start on the latest weeks. Existing workouts, drafts and scoring are preserved."
 }
