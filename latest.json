@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.21/Workout_Tracker_v23.apk",
-  "sha256": "A1CABCCA189CCBEEA9603FA1C65F10C7B63CAA87764CABB70DAC161BE9E1AD89",
-  "notes": "Refined weekly overview with small next-level stars, centered charts, every week numbered, larger section headings, and matching 8-week/52-week average circles. Log squash with a date from the workout page; edit or delete it in History. Up to three muted maroon dots mark squash sessions above Overall weekly bars. Squash adds no credits. Existing workouts, yoga, drafts and scoring are preserved."
+  "versionCode": 23,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.22/Workout_Tracker_v24.apk",
+  "sha256": "E2DDEC7664D880E5447E5203FC935EDC67000B68301D0703B0163669D653C562",
+  "notes": "Overall, Gym and Yoga now each sit in their own subtly shaded rounded panel, with clean spacing and no borders or shadows. All scoring, history and drafts are unchanged."
 }
