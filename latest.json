@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.18/Workout_Tracker_v20.apk",
-  "sha256": "C9E8F8A1F2E11401735BB70F92C080719AB949EF38D4F14BBF512230E3D98F71",
-  "notes": "Add yoga sessions by entering minutes: 30 minutes earns one yoga credit, capped per session and worth half an activity credit. Refreshed overview with separate weekly goals (Gym 1.5, Yoga 1.0), All/Gym/Yoga filtering, and stacked bars with yoga beneath gym. Yoga can be edited or deleted in History. Existing workouts, drafts, exercise stats and baselines are preserved."
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.19/Workout_Tracker_v21.apk",
+  "sha256": "FD7B62AE812DE94036F40BDC6D31E28E8E7AB882528087B03B89C896B53FB5B0",
+  "notes": "Redesigned overview with Overall, Gym and Yoga sections, clean progress circles, sixteen-week charts, and 8/52-week averages. Tap a bar or swipe any circle to select the same week across all sections. Circles and bars use matching grey, green, blue, purple and orange achievement levels. Gym credits are 0.4 plus 0.04 per completed set; yoga credits are 0.4 plus 0.02 per minute, both capped at 1.2 per nonempty session. Yoga contributes 75% to Overall. Historical totals recalculate without changing logged sets, minutes or drafts."
 }
