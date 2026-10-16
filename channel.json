@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.17/Workout_Tracker_v19.apk",
-  "sha256": "9454C0CCBE9950FE7554933AFF7ED2CEB8AADA8079580418173BF933CBFFC97A",
-  "notes": "The week-by-week chart now fits eight weeks in Recent 8 and sixteen in All weeks before scrolling. Tap any bar to see its week, date range and exact workout credits. Longer histories start on the latest weeks. Existing workouts, drafts and scoring are preserved."
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.18/Workout_Tracker_v20.apk",
+  "sha256": "C9E8F8A1F2E11401735BB70F92C080719AB949EF38D4F14BBF512230E3D98F71",
+  "notes": "Add yoga sessions by entering minutes: 30 minutes earns one yoga credit, capped per session and worth half an activity credit. Refreshed overview with separate weekly goals (Gym 1.5, Yoga 1.0), All/Gym/Yoga filtering, and stacked bars with yoga beneath gym. Yoga can be edited or deleted in History. Existing workouts, drafts, exercise stats and baselines are preserved."
 }
