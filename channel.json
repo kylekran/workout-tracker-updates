@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.23/Workout_Tracker_v25.apk",
-  "sha256": "63927ED9A1869C275CE4F6AD23A2F6D866689247FC6E90B325E8FDEDE55F1DEB",
-  "notes": "Rose and Diamond levels with textured circles and matching bars. Rose: 5.5 Gym/Yoga, 8.5 Overall. Diamond: 6.5 Gym/Yoga, 10 Overall. Gym credits: 0.25 + 0.05 per set through 15 sets, then linearly to 1.2 at 20 sets. Yoga: 0.25 + 0.025 per minute through 30 minutes, then linearly to 1.2 at 45 minutes. Empty sessions earn zero. Overall still weights yoga at 75%. Historical totals recalculate without changing logged workouts or drafts."
+  "versionCode": 25,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.24/Workout_Tracker_v26.apk",
+  "sha256": "5E728F3C05BE420D1E3AB650F80248E6D7E663FDBFCFDF0BC41078B6467D1C36",
+  "notes": "Progress rings now gradually fill with the next achievement color instead of displaying a next-level star. Tiny panel-colored gaps separate the colors at both ends, disappearing at each completed level. Rose and diamond textures stay within their segments. Average circles use the same progression; weekly bars retain their achieved-level colors. Credit math and logged history are unchanged."
 }
