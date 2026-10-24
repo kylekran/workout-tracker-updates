@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.24/Workout_Tracker_v26.apk",
-  "sha256": "5E728F3C05BE420D1E3AB650F80248E6D7E663FDBFCFDF0BC41078B6467D1C36",
-  "notes": "Progress rings now gradually fill with the next achievement color instead of displaying a next-level star. Tiny panel-colored gaps separate the colors at both ends, disappearing at each completed level. Rose and diamond textures stay within their segments. Average circles use the same progression; weekly bars retain their achieved-level colors. Credit math and logged history are unchanged."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.25/Workout_Tracker_v27.apk",
+  "sha256": "B5FBD2ED4455971C82F3B906968D16C0C39D0E05C454D9513A7D4B6FD0F9ADD2",
+  "notes": "History now shows completed sets and gym credits in gym blue, matching the yoga summary style. Extra and supplementary sets are included. Rings, credit math, and logged history are unchanged."
 }
