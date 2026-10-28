@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.25/Workout_Tracker_v27.apk",
-  "sha256": "B5FBD2ED4455971C82F3B906968D16C0C39D0E05C454D9513A7D4B6FD0F9ADD2",
-  "notes": "History now shows completed sets and gym credits in gym blue, matching the yoga summary style. Extra and supplementary sets are included. Rings, credit math, and logged history are unchanged."
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.26/Workout_Tracker_v28.apk",
+  "sha256": "EFAAD954819259D945B66019C8F922981A13BBB522EDC45A3919D3673B253D46",
+  "notes": "Workout exercise references now show the actual sets from your best-performance session. Use best copies that session, and the live comparison is against your best. Ties use the newest session. Exercise charts, credit math, and saved history are unchanged."
 }
