@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.26/Workout_Tracker_v28.apk",
-  "sha256": "EFAAD954819259D945B66019C8F922981A13BBB522EDC45A3919D3673B253D46",
-  "notes": "Workout exercise references now show the actual sets from your best-performance session. Use best copies that session, and the live comparison is against your best. Ties use the newest session. Exercise charts, credit math, and saved history are unchanged."
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.27/Workout_Tracker_v29.apk",
+  "sha256": "CBE43507AF8C5D95D40A9CFDD42314435BC6705C558A11440CED2F928C596A02",
+  "notes": "Gym and Yoga rings fill white by 0.5 credits, then green by 1.5, with blue reached at 2.5. Higher levels and Overall thresholds are unchanged. Post-workout credits now show up to two decimal places. Credit calculations and saved history are unchanged."
 }
