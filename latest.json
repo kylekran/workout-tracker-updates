@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.27/Workout_Tracker_v29.apk",
-  "sha256": "CBE43507AF8C5D95D40A9CFDD42314435BC6705C558A11440CED2F928C596A02",
-  "notes": "Gym and Yoga rings fill white by 0.5 credits, then green by 1.5, with blue reached at 2.5. Higher levels and Overall thresholds are unchanged. Post-workout credits now show up to two decimal places. Credit calculations and saved history are unchanged."
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.28/Workout_Tracker_v30.apk",
+  "sha256": "72ED69BA01522DDD2624AEE708EF9BA5A7D42EB86F2EF81A07F1626AFBA6447E",
+  "notes": "Squash now adds 0.5 Overall credits once per calendar week, including Overall averages. Weekly bars show a subtle striped cap in the achievement color instead of squash dots. Gym and Yoga scores are unchanged; all saved sessions remain intact."
 }
