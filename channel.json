@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.28/Workout_Tracker_v30.apk",
-  "sha256": "72ED69BA01522DDD2624AEE708EF9BA5A7D42EB86F2EF81A07F1626AFBA6447E",
-  "notes": "Squash now adds 0.5 Overall credits once per calendar week, including Overall averages. Weekly bars show a subtle striped cap in the achievement color instead of squash dots. Gym and Yoga scores are unchanged; all saved sessions remain intact."
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/kylekran/workout-tracker-updates/releases/download/v1.29/Workout_Tracker_v31.apk",
+  "sha256": "6094B043AB75D99CC0EDB8E5609D953A11504C9EF0D3C0E48EC1328076A8D6AB",
+  "notes": "Stats navigation now uses a soft segmented control with a gently sliding selection, no outlines, and comfortable tap targets. Overview, Exercises, and Workouts keep their existing behavior. Scores and saved history are unchanged."
 }
